@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardReader", "CardReader\CardReader.csproj", "{E4E7282B-3FD4-4137-8EE4-FC7A41631171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E7282B-3FD4-4137-8EE4-FC7A41631171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E7282B-3FD4-4137-8EE4-FC7A41631171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E7282B-3FD4-4137-8EE4-FC7A41631171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E7282B-3FD4-4137-8EE4-FC7A41631171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DEF64CB-2840-4C72-A1F9-7BA20B52FF5F}
+	EndGlobalSection
+EndGlobal
